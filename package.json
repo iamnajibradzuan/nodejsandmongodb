@@ -3,7 +3,7 @@
   "main": "server.js",
   "dependencies": {
     "express": "~4.14.0",
-    "ejs": "~2.5.2",
+    "ejs": "~3.1.6",
     "mongoose": "~4.13.1",
     "passport": "~0.3.2",
     "passport-local": "~1.0.0",
